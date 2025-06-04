@@ -2,6 +2,7 @@
 The Railway Management Database System is designed to efficiently manage and record comprehensive information related to railway operations. This includes data such as train details, routes, schedules, stations, and customer reservations. A simplified version of this project can focus on key functionalities like train arrival and departure times and the sequence of station stops.
 
 Key Functionalities:
+
 Train & Schedule Management:
 Maintain a database with details of all trains, including train names, IDs, routes, departure and arrival times, and scheduled stops.
 
